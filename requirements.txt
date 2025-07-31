@@ -1,0 +1,13 @@
+pandas
+requests
+scikit-learn
+matplotlib
+streamlit
+argparse
+httpx
+datetime
+opencv-python
+requests
+imagehash
+scrape-search-engine
+bs4
